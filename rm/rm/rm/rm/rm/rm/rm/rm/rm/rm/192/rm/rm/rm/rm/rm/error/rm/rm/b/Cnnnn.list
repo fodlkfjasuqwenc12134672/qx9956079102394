@@ -1,0 +1,372 @@
+#P
+DOMAIN-SUFFIX,matocloud.com,CN
+DOMAIN-SUFFIX,getui.com,CN
+DOMAIN-SUFFIX,qcloud.com,CN
+DOMAIN-SUFFIX,hdslb.com,CN
+DOMAIN-SUFFIX,acg.tv,CN
+
+# > TikTok
+USER-AGENT,TikTok*,TikTok
+DOMAIN-SUFFIX,muscdn.com,TikTok
+DOMAIN-SUFFIX,musical.ly,TikTok
+DOMAIN-SUFFIX,tiktokv.com,TikTok
+DOMAIN-SUFFIX,tiktokcdn.com,TikTok
+DOMAIN-KEYWORD,-tiktokcdn-com,TikTok
+DOMAIN-SUFFIX,byteoversea.com,TikTok
+DOMAIN-SUFFIX,byteoversea.net,TikTok
+DOMAIN-SUFFIX,p0.ipstatp.com,TikTok
+
+DOMAIN-SUFFIX,feiliao.com,TikTok
+DOMAIN-SUFFIX,pstatp.com,TikTok
+DOMAIN-SUFFIX,snssdk.com,TikTok
+DOMAIN-SUFFIX,iesdouyin.com,TikTok
+DOMAIN-SUFFIX,toutiao.com,TikTok
+DOMAIN-SUFFIX,ixigua.com,TikTok
+DOMAIN-SUFFIX,p3-dy.byteimg.com,TikTok
+DOMAIN-SUFFIX,bytedns.net,TikTok
+DOMAIN-SUFFIX,amemv.com,TikTok
+DOMAIN-SUFFIX,dig.bdurl.net,TikTok
+
+# > QQ
+DOMAIN-KEYWORD,qqdownload,CN
+USER-AGENT,MicroMessenger%20Client,CN
+USER-AGENT,WeChat*,CN
+USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,CN
+DOMAIN-SUFFIX,gtimg.com,CN
+DOMAIN-SUFFIX,idqqimg.com,CN
+DOMAIN-SUFFIX,igamecj.com,CN
+DOMAIN-SUFFIX,myapp.com,CN
+DOMAIN-SUFFIX,myqcloud.com,CN
+DOMAIN-SUFFIX,qq.com,CN
+DOMAIN-SUFFIX,servicewechat.com,CN
+DOMAIN-SUFFIX,tencent.com,CN
+DOMAIN-SUFFIX,tencent-cloud.net,CN
+DOMAIN-SUFFIX,tenpay.com,CN
+DOMAIN,file-igamecj.akamaized.net,CN
+
+# > kugou
+DOMAIN-SUFFIX,kugou.com,CN
+
+# > 快手
+DOMAIN-SUFFIX,yximgs.com,CN
+DOMAIN-SUFFIX,kwai.net,CN
+DOMAIN-SUFFIX,ksapisrv.com,CN
+
+# > 金十
+DOMAIN-SUFFIX,jin10.com,CN
+
+# > Aliyun
+DOMAIN-SUFFIX,aliyuncs.com,CN
+
+#2019-12-21 更新日期
+# China Area Network
+# > 360
+DOMAIN-SUFFIX,qhres.com,CN
+DOMAIN-SUFFIX,qhimg.com,CN
+# > Akamai
+DOMAIN-SUFFIX,akadns.net,CN
+# DOMAIN-SUFFIX,akamai.net,CN
+# DOMAIN-SUFFIX,akamaiedge.net,CN
+# DOMAIN-SUFFIX,akamaihd.net,CN
+# DOMAIN-SUFFIX,akamaistream.net,CN
+# DOMAIN-SUFFIX,akamaized.net,CN
+# > Alibaba
+USER-AGENT,%E4%BC%98%E9%85%B7*,CN
+DOMAIN-SUFFIX,alibaba.com,CN
+DOMAIN-SUFFIX,alicdn.com,CN
+DOMAIN-SUFFIX,alikunlun.com,CN
+DOMAIN-SUFFIX,alipay.com,CN
+DOMAIN-SUFFIX,amap.com,CN
+DOMAIN-SUFFIX,autonavi.com,CN
+DOMAIN-SUFFIX,dingtalk.com,CN
+DOMAIN-SUFFIX,mxhichina.com,CN
+DOMAIN-SUFFIX,soku.com,CN
+DOMAIN-SUFFIX,taobao.com,CN
+DOMAIN-SUFFIX,tmall.com,CN
+DOMAIN-SUFFIX,tmall.hk,CN
+DOMAIN-SUFFIX,ykimg.com,CN
+DOMAIN-SUFFIX,youku.com,CN
+DOMAIN-SUFFIX,xiami.com,CN
+DOMAIN-SUFFIX,xiami.net,CN
+# > Baidu
+DOMAIN-SUFFIX,baidu.com,CN
+DOMAIN-SUFFIX,baidubcr.com,CN
+DOMAIN-SUFFIX,bdstatic.com,CN
+DOMAIN-SUFFIX,yunjiasu-cdn.net,CN
+# > bilibili
+DOMAIN-SUFFIX,acgvideo.com,CN
+DOMAIN-SUFFIX,biliapi.com,CN
+DOMAIN-SUFFIX,biliapi.net,CN
+DOMAIN-SUFFIX,bilibili.com,CN
+DOMAIN-SUFFIX,bilibili.tv,CN
+DOMAIN-SUFFIX,hdslb.com,CN
+# > Blizzard
+DOMAIN-SUFFIX,blizzard.com,CN
+DOMAIN-SUFFIX,battle.net,CN
+DOMAIN,blzddist1-a.akamaihd.net,CN
+
+# > CCTV
+DOMAIN-SUFFIX,cctv.com,CN
+DOMAIN-SUFFIX,cctvpic.com,CN
+DOMAIN-SUFFIX,livechina.com,CN
+# > DiDi
+DOMAIN-SUFFIX,didialift.com,CN
+DOMAIN-SUFFIX,didiglobal.com,CN
+DOMAIN-SUFFIX,udache.com,CN
+# > 蛋蛋赞
+DOMAIN-SUFFIX,343480.com,CN
+DOMAIN-SUFFIX,baduziyuan.com,CN
+DOMAIN-SUFFIX,com-hs-hkdy.com,CN
+DOMAIN-SUFFIX,czybjz.com,CN
+DOMAIN-SUFFIX,dandanzan.com,CN
+DOMAIN-SUFFIX,fjhps.com,CN
+DOMAIN-SUFFIX,kuyunbo.club,CN
+# > ChinaNet
+DOMAIN-SUFFIX,21cn.com,CN
+# > HunanTV
+DOMAIN-SUFFIX,hitv.com,CN
+DOMAIN-SUFFIX,mgtv.com,CN
+# > iQiyi
+DOMAIN-SUFFIX,iqiyi.com,CN
+DOMAIN-SUFFIX,iqiyipic.com,CN
+DOMAIN-SUFFIX,71.am.com,CN
+# > JD
+DOMAIN-SUFFIX,jd.com,CN
+DOMAIN-SUFFIX,jd.hk,CN
+DOMAIN-SUFFIX,jdpay.com,CN
+DOMAIN-SUFFIX,360buyimg.com,CN
+# > Kingsoft
+DOMAIN-SUFFIX,iciba.com,CN
+DOMAIN-SUFFIX,ksosoft.com,CN
+# > Meitu
+DOMAIN-SUFFIX,meitu.com,CN
+DOMAIN-SUFFIX,meitudata.com,CN
+DOMAIN-SUFFIX,meitustat.com,CN
+DOMAIN-SUFFIX,meipai.com,CN
+# > MI
+DOMAIN-SUFFIX,duokan.com,CN
+DOMAIN-SUFFIX,mi-img.com,CN
+DOMAIN-SUFFIX,miui.com,CN
+DOMAIN-SUFFIX,miwifi.com,CN
+DOMAIN-SUFFIX,xiaomi.com,CN
+# > Microsoft
+DOMAIN-SUFFIX,microsoft.com,CN
+DOMAIN-SUFFIX,msecnd.net,CN
+DOMAIN-SUFFIX,office365.com,CN
+DOMAIN-SUFFIX,outlook.com,CN
+DOMAIN-SUFFIX,s-microsoft.com,CN
+DOMAIN-SUFFIX,visualstudio.com,CN
+DOMAIN-SUFFIX,windows.com,CN
+DOMAIN-SUFFIX,windowsupdate.com,CN
+DOMAIN,officecdn-microsoft-com.akamaized.net,CN
+# > NetEase
+USER-AGENT,NeteaseMusic*,CN
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,CN
+DOMAIN-SUFFIX,163.com,CN
+DOMAIN-SUFFIX,126.net,CN
+DOMAIN-SUFFIX,127.net,CN
+DOMAIN-SUFFIX,163yun.com,CN
+DOMAIN-SUFFIX,lofter.com,CN
+DOMAIN-SUFFIX,netease.com,CN
+DOMAIN-SUFFIX,ydstatic.com,CN
+# > Sina
+DOMAIN-SUFFIX,sina.com,CN
+DOMAIN-SUFFIX,weibo.com,CN
+DOMAIN-SUFFIX,weibocdn.com,CN
+# > Sohu
+DOMAIN-SUFFIX,sohu.com,CN
+DOMAIN-SUFFIX,sohucs.com,CN
+DOMAIN-SUFFIX,sohu-inc.com,CN
+DOMAIN-SUFFIX,v-56.com,CN
+# > Sogo
+DOMAIN-SUFFIX,sogo.com,CN
+DOMAIN-SUFFIX,sogou.com,CN
+DOMAIN-SUFFIX,sogoucdn.com,CN
+# > Steam
+DOMAIN-SUFFIX,steampowered.com,CN
+DOMAIN-SUFFIX,steam-chat.com,CN
+DOMAIN-SUFFIX,steamgames.com,CN
+DOMAIN-SUFFIX,steamusercontent.com,CN
+DOMAIN-SUFFIX,steamcontent.com,CN
+DOMAIN-SUFFIX,steamstatic.com,CN
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,CN
+DOMAIN-SUFFIX,steamstat.us,CN
+# > Tencent
+USER-AGENT,MicroMessenger%20Client,CN
+USER-AGENT,WeChat*,CN
+DOMAIN-SUFFIX,gtimg.com,CN
+DOMAIN-SUFFIX,idqqimg.com,CN
+DOMAIN-SUFFIX,igamecj.com,CN
+DOMAIN-SUFFIX,myapp.com,CN
+DOMAIN-SUFFIX,myqcloud.com,CN
+DOMAIN-SUFFIX,qq.com,CN
+DOMAIN-SUFFIX,tencent.com,CN
+DOMAIN-SUFFIX,tencent-cloud.net,CN
+# > YYeTs
+USER-AGENT,YYeTs*,CN
+DOMAIN-SUFFIX,jstucdn.com,CN
+DOMAIN-SUFFIX,zimuzu.io,CN
+DOMAIN-SUFFIX,zimuzu.tv,CN
+DOMAIN-SUFFIX,zmz2019.com,CN
+DOMAIN-SUFFIX,zmzapi.com,CN
+DOMAIN-SUFFIX,zmzapi.net,CN
+DOMAIN-SUFFIX,zmzfile.com,CN
+# > Content Delivery Network
+DOMAIN-SUFFIX,ccgslb.com,CN
+DOMAIN-SUFFIX,ccgslb.net,CN
+DOMAIN-SUFFIX,chinanetcenter.com,CN
+DOMAIN-SUFFIX,meixincdn.com,CN
+DOMAIN-SUFFIX,ourdvs.com,CN
+DOMAIN-SUFFIX,staticdn.net,CN
+DOMAIN-SUFFIX,wangsu.com,CN
+# > IP Query
+DOMAIN-SUFFIX,ipip.net,CN
+DOMAIN-SUFFIX,ip.la,CN
+DOMAIN-SUFFIX,ip-cdn.com,CN
+DOMAIN-SUFFIX,ipv6-test.com,CN
+DOMAIN-SUFFIX,test-ipv6.com,CN
+DOMAIN-SUFFIX,whatismyip.com,CN
+# > Speed Test
+# DOMAIN-SUFFIX,speedtest.net,CN
+DOMAIN-SUFFIX,netspeedtestmaster.com,CN
+DOMAIN,speedtest.macpaw.com,CN
+# > Private Tracker
+DOMAIN-SUFFIX,awesome-hd.me,CN
+DOMAIN-SUFFIX,broadcasthe.net,CN
+DOMAIN-SUFFIX,chdbits.co,CN
+DOMAIN-SUFFIX,classix-unlimited.co.uk,CN
+DOMAIN-SUFFIX,empornium.me,CN
+DOMAIN-SUFFIX,gazellegames.net,CN
+DOMAIN-SUFFIX,hdchina.org,CN
+DOMAIN-SUFFIX,hdsky.me,CN
+DOMAIN-SUFFIX,jpopsuki.eu,CN
+DOMAIN-SUFFIX,keepfrds.com,CN
+DOMAIN-SUFFIX,m-team.cc,CN
+DOMAIN-SUFFIX,nanyangpt.com,CN
+DOMAIN-SUFFIX,ncore.cc,CN
+DOMAIN-SUFFIX,open.cd,CN
+DOMAIN-SUFFIX,ourbits.club,CN
+DOMAIN-SUFFIX,passthepopcorn.me,CN
+DOMAIN-SUFFIX,privatehd.to,CN
+DOMAIN-SUFFIX,redacted.ch,CN
+DOMAIN-SUFFIX,springsunday.net,CN
+DOMAIN-SUFFIX,tjupt.org,CN
+DOMAIN-SUFFIX,totheglory.im,CN
+# > Other
+DOMAIN-SUFFIX,cn,CN
+DOMAIN-SUFFIX,360in.com,CN
+DOMAIN-SUFFIX,51ym.me,CN
+DOMAIN-SUFFIX,8686c.com,CN
+DOMAIN-SUFFIX,abchina.com,CN
+DOMAIN-SUFFIX,accuweather.com,CN
+DOMAIN-SUFFIX,aicoinstorge.com,CN
+DOMAIN-SUFFIX,air-matters.com,CN
+DOMAIN-SUFFIX,air-matters.io,CN
+DOMAIN-SUFFIX,aixifan.com,CN
+DOMAIN-SUFFIX,amd.com,CN
+DOMAIN-SUFFIX,b612.net,CN
+DOMAIN-SUFFIX,bdatu.com,CN
+DOMAIN-SUFFIX,beitaichufang.com,CN
+DOMAIN-SUFFIX,bjango.com,CN
+DOMAIN-SUFFIX,booking.com,CN
+DOMAIN-SUFFIX,bstatic.com,CN
+DOMAIN-SUFFIX,cailianpress.com,CN
+DOMAIN-SUFFIX,camera360.com,CN
+DOMAIN-SUFFIX,chinaso.com,CN
+DOMAIN-SUFFIX,chua.pro,CN
+DOMAIN-SUFFIX,chuimg.com,CN
+DOMAIN-SUFFIX,chunyu.mobi,CN
+DOMAIN-SUFFIX,chushou.tv,CN
+DOMAIN-SUFFIX,cmbchina.com,CN
+DOMAIN-SUFFIX,cmbimg.com,CN
+DOMAIN-SUFFIX,ctrip.com,CN
+DOMAIN-SUFFIX,dfcfw.com,CN
+DOMAIN-SUFFIX,docschina.org,CN
+DOMAIN-SUFFIX,douban.com,CN
+DOMAIN-SUFFIX,doubanio.com,CN
+DOMAIN-SUFFIX,douyu.com,CN
+DOMAIN-SUFFIX,dxycdn.com,CN
+DOMAIN-SUFFIX,dytt8.net,CN
+DOMAIN-SUFFIX,eastmoney.com,CN
+DOMAIN-SUFFIX,eudic.net,CN
+DOMAIN-SUFFIX,feng.com,CN
+DOMAIN-SUFFIX,fengkongcloud.com,CN
+DOMAIN-SUFFIX,frdic.com,CN
+DOMAIN-SUFFIX,futu5.com,CN
+DOMAIN-SUFFIX,futunn.com,CN
+DOMAIN-SUFFIX,gandi.net,CN
+DOMAIN-SUFFIX,geilicdn.com,CN
+DOMAIN-SUFFIX,getpricetag.com,CN
+DOMAIN-SUFFIX,gifshow.com,CN
+DOMAIN-SUFFIX,godic.net,CN
+DOMAIN-SUFFIX,hicloud.com,CN
+DOMAIN-SUFFIX,hongxiu.com,CN
+DOMAIN-SUFFIX,hostbuf.com,CN
+DOMAIN-SUFFIX,huxiucdn.com,CN
+DOMAIN-SUFFIX,huya.com,CN
+DOMAIN-SUFFIX,infinitynewtab.com,CN
+DOMAIN-SUFFIX,ithome.com,CN
+DOMAIN-SUFFIX,java.com,CN
+DOMAIN-SUFFIX,jidian.im,CN
+DOMAIN-SUFFIX,kaiyanapp.com,CN
+DOMAIN-SUFFIX,kaspersky-labs.com,CN
+DOMAIN-SUFFIX,keepcdn.com,CN
+DOMAIN-SUFFIX,kkmh.com,CN
+DOMAIN-SUFFIX,licdn.com,CN
+DOMAIN-SUFFIX,linkedin.com,CN
+DOMAIN-SUFFIX,loli.net,CN
+DOMAIN-SUFFIX,luojilab.com,CN
+DOMAIN-SUFFIX,maoyan.com,CN
+DOMAIN-SUFFIX,maoyun.tv,CN
+DOMAIN-SUFFIX,meituan.com,CN
+DOMAIN-SUFFIX,meituan.net,CN
+DOMAIN-SUFFIX,mobike.com,CN
+DOMAIN-SUFFIX,moke.com,CN
+DOMAIN-SUFFIX,mubu.com,CN
+DOMAIN-SUFFIX,myzaker.com,CN
+DOMAIN-SUFFIX,nim-lang-cn.org,CN
+DOMAIN-SUFFIX,nvidia.com,CN
+DOMAIN-SUFFIX,oracle.com,CN
+DOMAIN-SUFFIX,paypal.com,CN
+DOMAIN-SUFFIX,paypalobjects.com,CN
+DOMAIN-SUFFIX,qdaily.com,CN
+DOMAIN-SUFFIX,qidian.com,CN
+DOMAIN-SUFFIX,qyer.com,CN
+DOMAIN-SUFFIX,qyerstatic.com,CN
+DOMAIN-SUFFIX,raychase.net,CN
+DOMAIN-SUFFIX,ronghub.com,CN
+DOMAIN-SUFFIX,ruguoapp.com,CN
+DOMAIN-SUFFIX,s-reader.com,CN
+DOMAIN-SUFFIX,sankuai.com,CN
+DOMAIN-SUFFIX,scomper.me,CN
+DOMAIN-SUFFIX,seafile.com,CN
+DOMAIN-SUFFIX,sm.ms,CN
+DOMAIN-SUFFIX,smzdm.com,CN
+DOMAIN-SUFFIX,snapdrop.net,CN
+DOMAIN-SUFFIX,snwx.com,CN
+DOMAIN-SUFFIX,sspai.com,CN
+DOMAIN-SUFFIX,takungpao.com,CN
+DOMAIN-SUFFIX,teamviewer.com,CN
+DOMAIN-SUFFIX,tianyancha.com,CN
+DOMAIN-SUFFIX,udacity.com,CN
+DOMAIN-SUFFIX,uning.com,CN
+DOMAIN-SUFFIX,vmware.com,CN
+DOMAIN-SUFFIX,weather.com,CN
+DOMAIN-SUFFIX,weico.cc,CN
+DOMAIN-SUFFIX,weidian.com,CN
+DOMAIN-SUFFIX,xiachufang.com,CN
+DOMAIN-SUFFIX,ximalaya.com,CN
+DOMAIN-SUFFIX,xinhuanet.com,CN
+DOMAIN-SUFFIX,xmcdn.com,CN
+DOMAIN-SUFFIX,yangkeduo.com,CN
+DOMAIN-SUFFIX,zhangzishi.cc,CN
+DOMAIN-SUFFIX,zhihu.com,CN
+DOMAIN-SUFFIX,zhimg.com,CN
+DOMAIN-SUFFIX,zhuihd.com,CN
+DOMAIN,download.jetbrains.com,CN
+DOMAIN,images-cn.ssl-images-amazon.com,CN
+DOMAIN,cdn.angruo.com,CN
+# DNSPod Public DNS+
+IP-CIDR,119.28.28.28/32,CN
+# GeoIP China
+GEOIP,CN,CN
