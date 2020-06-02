@@ -1,0 +1,10 @@
+#bilibili
+DOMAIN-SUFFIX,bilibili.com,Bilibili
+#DOMAIN,upos-hz-mirrorakam.akamaized.net,Bilibili
+DOMAIN-SUFFIX,biligame.com,Bilibili
+
+#愛奇藝
+DOMAIN-SUFFIX,iqiyi.com,iqiyi
+
+#Line TV
+DOMAIN-SUFFIX,linetv.tw,Bilibili
