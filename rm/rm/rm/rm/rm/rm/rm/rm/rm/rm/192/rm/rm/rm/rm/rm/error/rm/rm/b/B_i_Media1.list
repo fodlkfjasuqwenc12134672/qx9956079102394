@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,bilibili.com,Bilibili
 #DOMAIN,upos-hz-mirrorakam.akamaized.net,Bilibili
 DOMAIN-SUFFIX,biligame.com,Bilibili
+DOMAIN-SUFFIX,biliapi.net,Bilibili
+DOMAIN-SUFFIX,bilivideo.com,Bilibili
+DOMAIN-SUFFIX,hdslb.com,Bilibili
 
 #愛奇藝
 DOMAIN-SUFFIX,iqiyi.com,iqiyi
