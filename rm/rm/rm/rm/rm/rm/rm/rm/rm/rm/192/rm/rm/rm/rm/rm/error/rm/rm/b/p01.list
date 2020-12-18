@@ -77,5 +77,6 @@ DOMAIN-SUFFIX,hotjar.com,REJECT
 DOMAIN-SUFFIX,realsrv.com,REJECT
 DOMAIN-SUFFIX,stunninglover.com,REJECT
 DOMAIN-SUFFIX,js.wpncdn.com,REJECT
-
+DOMAIN-SUFFIX,ddmax20.xyz,REJECT
+DOMAIN-SUFFIX,e2wysbacctt1.com,REJECT
 
