@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,wire.com,Final
 DOMAIN-SUFFIX,noxinfluencer.com,Final
 DOMAIN-SUFFIX,socialblade.com,Final
 DOMAIN-SUFFIX,mewe.com,PROXY
+DOMAIN-SUFFIX,mgstage.com,PROXY
 
 #CN
 DOMAIN-SUFFIX,cibntv.net,CN
@@ -71,9 +72,10 @@ DOMAIN-SUFFIX,theporndude.com,REJECT
 DOMAIN-SUFFIX,amung.us,REJECT
 DOMAIN-SUFFIX,ddmax20.xyz,REJECT
 DOMAIN-SUFFIX,e2wysbacctt1.com,REJECT
-DOMAIN-SUFFIX,exosrv.com,REJECT
 DOMAIN-SUFFIX,histats.com,REJECT
 DOMAIN-SUFFIX,hotjar.com,REJECT
 DOMAIN-SUFFIX,realsrv.com,REJECT
+DOMAIN-SUFFIX,stunninglover.com,REJECT
+DOMAIN-SUFFIX,js.wpncdn.com,REJECT
 
 
