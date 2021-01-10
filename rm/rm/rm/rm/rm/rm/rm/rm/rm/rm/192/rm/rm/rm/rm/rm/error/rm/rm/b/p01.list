@@ -4,6 +4,11 @@ DOMAIN-SUFFIX,unity3d.com,Nxb
 DOMAIN-SUFFIX,api.smbeat.jp,Nxb
 DOMAIN-SUFFIX,bn765.com,Nxb
 
+#Monzo
+DOMAIN-SUFFIX,monzo.com,Monzo
+DOMAIN-SUFFIX,statuspage.io,Monzo
+DOMAIN-SUFFIX,pusher.com,Monzo
+
 #Comic
 DOMAIN-SUFFIX,manhuaren.com,Comic
 DOMAIN-SUFFIX,ip-api.com,Comic
