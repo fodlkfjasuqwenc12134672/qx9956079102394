@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,mewe.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
+
+# > Medium
+DOMAIN-SUFFIX,Medium.com
