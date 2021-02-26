@@ -1,0 +1,10 @@
+# > Whatsapp
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+
+# > Wire
+DOMAIN-SUFFIX,wire.com
+
+# > Signal
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,whispersystems.org
