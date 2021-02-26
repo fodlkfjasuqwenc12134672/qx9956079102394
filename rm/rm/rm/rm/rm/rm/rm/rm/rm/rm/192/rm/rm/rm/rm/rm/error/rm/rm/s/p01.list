@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,shiroutowiki.work
 DOMAIN-SUFFIX,wsj.com
+
+# > Mac for Telegram
+PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram,Telegram
+
