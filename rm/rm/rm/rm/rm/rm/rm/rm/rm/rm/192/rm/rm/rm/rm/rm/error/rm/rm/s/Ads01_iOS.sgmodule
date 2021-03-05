@@ -1,0 +1,12 @@
+#!name=Ads01
+#!desc=Ads01
+#!system=ios
+
+[MITM]
+hostname=streamsb.net,*.jwpcdn.com,asianclub.tv
+
+[URL Rewrite]
+(^https?:\/\/streamsb\.net\/js\/pop\.js) url reject
+(^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/polyfills\.webvtt\.js)) url reject
+(^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/provider\.cast\.js)) url reject
+(^https?:\/\/asianclub\.tv\/asset\/bann.js.+)(&.+) url reject
