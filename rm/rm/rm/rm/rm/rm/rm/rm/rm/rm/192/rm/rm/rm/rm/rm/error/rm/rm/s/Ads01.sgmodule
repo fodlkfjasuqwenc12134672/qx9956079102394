@@ -1,0 +1,8 @@
+#!name=Ads01
+#!desc=Ads01
+
+[MITM]
+hostname=streamsb.net
+
+[URL Rewrite]
+(^https?:\/\/streamsb\.net\/js\/pop\.js) url reject
