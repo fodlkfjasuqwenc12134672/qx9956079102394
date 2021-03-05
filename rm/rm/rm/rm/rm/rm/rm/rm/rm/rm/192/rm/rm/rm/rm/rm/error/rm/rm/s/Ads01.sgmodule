@@ -7,3 +7,4 @@ hostname=streamsb.net,*.jwpcdn.com
 [URL Rewrite]
 (^https?:\/\/streamsb\.net\/js\/pop\.js) url reject
 (^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/polyfills\.webvtt\.js)) url reject
+(^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/provider\.cast\.js)) url reject
