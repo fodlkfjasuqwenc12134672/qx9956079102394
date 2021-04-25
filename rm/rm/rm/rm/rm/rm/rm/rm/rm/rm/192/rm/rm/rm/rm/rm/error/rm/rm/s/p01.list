@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,i.lih.kg
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,wiley.com
@@ -20,3 +21,4 @@ DOMAIN-SUFFIX,shiroutowiki.work
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,thestandnews.com
 DOMAIN-SUFFIX,silvergatebank.com
+GEOIP,TW
