@@ -1,4 +1,6 @@
 #ads
+DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+DOMAIN-SUFFIX,adxserver.ad.cmvideo.cn
 DOMAIN-SUFFIX,yap.yahoo.com
 DOMAIN-SUFFIX,aralego.com
 DOMAIN-SUFFIX,api.uparpu.com
@@ -69,4 +71,4 @@ DOMAIN-KEYWORD,bnr_u3c3
 DOMAIN-KEYWORD,bnr_5feng
 DOMAIN-SUFFIX,ads.superad.cc
 DOMAIN-SUFFIX,adv.lihkg.com
-DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+
