@@ -8,3 +8,5 @@
 (^https?:\/\/asianclub\.tv\/asset\/bann.js.+)(&.+) url reject
 (^https?:\/\/www\.google\.com\/afs\/ads.+) url reject
 (^https?:\/\/google\.com\/afs\/ads.+) url reject
+(^https?:\/\/www\.googleadservices\.com) url reject
+(^https?:\/\/googleadservices\.com) url reject
