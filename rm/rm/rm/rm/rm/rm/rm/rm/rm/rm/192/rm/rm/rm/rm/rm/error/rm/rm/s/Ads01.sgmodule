@@ -12,3 +12,4 @@
 (^https?:\/\/googleadservices\.com) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204.+) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204\?atyp*(?:\([-A-Z0-9+&@#\/%=~_|$?!:,.]*\)|[A-Z0-9+&@#\/%=~_|$]).+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)i\.ytimg\.com\/gen.+) url reject
