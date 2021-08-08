@@ -6,3 +6,4 @@
 (^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/polyfills\.webvtt\.js)) url reject
 (^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/provider\.cast\.js)) url reject
 (^https?:\/\/asianclub\.tv\/asset\/bann.js.+)(&.+) url reject
+(^https?:\/\/www\.google\.com\/afs\/ads.+) url reject
