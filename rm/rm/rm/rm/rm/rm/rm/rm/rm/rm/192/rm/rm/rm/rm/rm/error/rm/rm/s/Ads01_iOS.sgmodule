@@ -7,3 +7,15 @@
 (^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/polyfills\.webvtt\.js)) url reject
 (^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/provider\.cast\.js)) url reject
 (^https?:\/\/asianclub\.tv\/asset\/bann.js.+)(&.+) url reject
+(^https?:\/\/www\.google\.com\/afs\/ads.+) url reject
+(^https?:\/\/google\.com\/afs\/ads.+) url reject
+(^https?:\/\/www\.googleadservices\.com) url reject
+(^https?:\/\/googleadservices\.com) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204\?atyp*(?:\([-A-Z0-9+&@#\/%=~_|$?!:,.]*\)|[A-Z0-9+&@#\/%=~_|$]).+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)i\.ytimg\.com\/gen.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)(static-clst)\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{0,100})\.([A-Za-z0-9_*+%!-]{0,100})) url reject
+
+//((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{2,100})\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{0,100})\.([A-Za-z0-9_*+%!-]{0,100})) url reject
+//((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{2,100})\.gif) url reject
+//((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{2,100})\.jpg) url reject
