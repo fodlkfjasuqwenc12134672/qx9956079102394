@@ -13,3 +13,4 @@
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204.+) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204\?atyp*(?:\([-A-Z0-9+&@#\/%=~_|$?!:,.]*\)|[A-Z0-9+&@#\/%=~_|$]).+) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)i\.ytimg\.com\/gen.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{2,100})\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{2,100})\.gif) url reject
