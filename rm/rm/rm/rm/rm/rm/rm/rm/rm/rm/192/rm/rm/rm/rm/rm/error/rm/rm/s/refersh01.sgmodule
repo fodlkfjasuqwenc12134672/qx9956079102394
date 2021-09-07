@@ -1,5 +1,6 @@
 #!name=refersh01
 #!desc=refersh01
+#!system=ios
 
 [Script]
-Refersh_crypto = type=cron,cronexp=*/1 * * * * *,script-path=/Users/jacky0010/Library/Mobile\ Documents/iCloud~dk~simonbs~Scriptable/Documents/new.js,script-update-interval=30
+Refersh_crypto = script-path=/var/mobile/Library/Mobile\ Documents/iCloud~dk~simonbs~Scriptable/Documents/new.js,type=cron,cronexp=*/1 * * * * *
