@@ -26,6 +26,7 @@
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/ptracking.+) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\/pagead.+) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\.([A-Za-z0-9_*+%!-]{0,100})/pagead.+) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/.+&(oad|ctier)) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/.+&(oad|ctier)) url reject-img
+
 
 
