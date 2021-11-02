@@ -18,12 +18,12 @@
 (^https?:\/\/hk\.fd-api\.com\/api\/v5\/partnerships-ads-api)(.+) url reject
 
 #Youtube
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/gen.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/player\/ad.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/api\/stats\/qoe.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/log_event.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/pagead.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/ptracking.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/gen.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/player\/ad.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/api\/stats\/qoe.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/log_event.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/pagead.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/ptracking.+) url reject
 #((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\/pagead.+) url reject
 #((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\.([A-Za-z0-9_*+%!-]{0,100})/pagead.+) url reject
 #((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googleusercontent\.com\/proxy.+) url reject
