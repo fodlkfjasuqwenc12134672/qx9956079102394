@@ -16,4 +16,5 @@
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)i\.ytimg\.com\/gen.+) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)(static-clst)\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{0,100})\.([A-Za-z0-9_*+%!-]{0,100})) url reject
 (^https?:\/\/img\.subhd\.la\/back\/ad_emma\.png) url reject
+(^https?:\/\/img\.subhd\.la\/back\/ad.+) url reject
 (^https?:\/\/hk\.fd-api\.com\/api\/v5\/partnerships-ads-api)(.+) url reject
