@@ -19,4 +19,4 @@
 (^https?:\/\/img\.subhd\.la\/back\/ad.+) url reject
 (^https?:\/\/hk\.fd-api\.com\/api\/v5\/partnerships-ads-api)(.+) url reject
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)jdbimgs\.com\/zzs.+) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)dianying\.im\/[0-9].+)
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)dianying\.im\/[0-9].+) url reject
