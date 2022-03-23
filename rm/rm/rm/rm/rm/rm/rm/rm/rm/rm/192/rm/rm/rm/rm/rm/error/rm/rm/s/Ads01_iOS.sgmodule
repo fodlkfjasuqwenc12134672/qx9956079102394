@@ -22,3 +22,4 @@
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)dianying\.im\/[0-9].+) url reject
 #(?:(?:https?|ftp|file):\/\/|pb\.|lihkg\.com\/cdn-cgi\/bm\/cv.+) url reject
 #(?:(?:https?|ftp|file):\/\/|s\.|yimg\.com\/dy\/ads\/.+) url reject
+((?:(?:https?|ftp|file):\/\/support\.streamjav\.)top\/api\/spots\/[-A-Z0-9+&@#\/%=~_|$?!:,.]*host=supjav.com\&ev.+) url reject
