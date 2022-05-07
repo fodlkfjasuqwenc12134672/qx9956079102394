@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,mydefipet.com
 DOMAIN-SUFFIX,yieldwatch.net
 DOMAIN-SUFFIX,apollox.com
+DOMAIN-SUFFIX,bsctools.xyz
 
 # > BSC node
 DOMAIN-SUFFIX,defibit.io
@@ -20,6 +21,7 @@ DOMAIN-SUFFIX,bsc-dataseed1.binance.org
 DOMAIN-SUFFIX,bsc-dataseed2.binance.org
 DOMAIN-SUFFIX,bsc-dataseed3.binance.org
 DOMAIN-SUFFIX,bsc-dataseed4.binance.org
+
 
 # > SafePal
 DOMAIN-SUFFIX,isafepal.com
