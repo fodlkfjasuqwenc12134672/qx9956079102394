@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,bsc-dataseed2.binance.org
 DOMAIN-SUFFIX,bsc-dataseed3.binance.org
 DOMAIN-SUFFIX,bsc-dataseed4.binance.org
 
+# > ETH node
+DOMAIN-SUFFIX,infura.io
+
 
 # > SafePal
 DOMAIN-SUFFIX,isafepal.com
