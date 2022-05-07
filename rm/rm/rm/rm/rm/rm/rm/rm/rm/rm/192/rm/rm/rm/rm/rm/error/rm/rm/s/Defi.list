@@ -25,6 +25,17 @@ DOMAIN-SUFFIX,bsc-dataseed4.binance.org
 # > ETH node
 DOMAIN-SUFFIX,infura.io
 
+# > Polygon node
+DOMAIN-SUFFIX,polygon-rpc.com
+
+# > Optimism node
+DOMAIN-SUFFIX,optimism.io
+
+# > Arbitrum node
+DOMAIN-SUFFIX,arbitrum.io
+
+# > Terra node
+DOMAIN-SUFFIX,terra.dev
 
 # > SafePal
 DOMAIN-SUFFIX,isafepal.com
