@@ -40,5 +40,8 @@
 
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/.+&(oad|ctier)) url reject
 
+#lihkg
+((?:(?:https?|ftp|file):\/\/|www\.|ftp|s\.)([A-Za-z0-9_*+%!-]{0,100})\.yimg\.com\/dy\/ads.+)
+
 
 
