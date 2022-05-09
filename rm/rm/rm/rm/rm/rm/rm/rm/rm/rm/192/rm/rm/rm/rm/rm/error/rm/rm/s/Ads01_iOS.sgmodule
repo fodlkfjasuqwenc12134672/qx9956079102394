@@ -23,3 +23,5 @@
 #(?:(?:https?|ftp|file):\/\/|pb\.|lihkg\.com\/cdn-cgi\/bm\/cv.+) url reject
 #(?:(?:https?|ftp|file):\/\/|s\.|yimg\.com\/dy\/ads\/.+) url reject
 ((?:(?:https?|ftp|file):\/\/support\.streamjav\.)top\/api\/spots\/[-A-Z0-9+&@#\/%=~_|$?!:,.]*host=supjav.com\&ev.+) url reject
+#lihkg
+((?:(?:https?|ftp|file):\/\/|www\.|ftp|s\.)([A-Za-z0-9_*+%!-]{0,100})\.yimg\.com\/dy\/ads.+)
