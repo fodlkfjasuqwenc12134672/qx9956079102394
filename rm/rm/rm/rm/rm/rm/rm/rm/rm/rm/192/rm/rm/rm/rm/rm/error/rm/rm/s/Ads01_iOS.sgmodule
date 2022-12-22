@@ -34,3 +34,12 @@
 (^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/06\/29100702\/mica.+) url reject
 (^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/11\/02110351\/polo.+) url reject
 (^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/08\/07180026\/bin.+) url reject
+
+#Abmedia
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/11\/ACE.+) url reject
+(^https?:\/\/abmedia\.io\/wp-admin\/admin-ajax\.php\?action=achang.+) url reject
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/06\/1764259.+) url reject
+(^https?:\/\/abmedia\.io\/wp-content\/plugins\/popup.+) url reject
+(^https?:\/\/abmedia\.io\/wp-json\/pum.+) url reject
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/12\/ACE.+) url reject
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/12\/Banner.+) url reject
