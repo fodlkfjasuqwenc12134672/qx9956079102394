@@ -2,61 +2,61 @@
 #!desc=Ads01
 
 [URL Rewrite]
-(^https?:\/\/streamsb\.net\/js\/pop\.js) url reject
-(^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/polyfills\.webvtt\.js)) url reject
-(^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/provider\.cast\.js)) url reject
-(^https?:\/\/asianclub\.tv\/asset\/bann.js.+)(&.+) url reject
-(^https?:\/\/www\.google\.com\/afs\/ads.+) url reject
-(^https?:\/\/google\.com\/afs\/ads.+) url reject
-(^https?:\/\/www\.googleadservices\.com) url reject
-(^https?:\/\/googleadservices\.com) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204.+) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204\?atyp*(?:\([-A-Z0-9+&@#\/%=~_|$?!:,.]*\)|[A-Z0-9+&@#\/%=~_|$]).+) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)i\.ytimg\.com\/gen.+) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)(static-clst)\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{0,100})\.([A-Za-z0-9_*+%!-]{0,100})) url reject
-(^https?:\/\/img\.subhd\.la\/back\/ad_emma\.png) url reject
-(^https?:\/\/img\.subhd\.la\/back\/ad.+) url reject
-(^https?:\/\/hk\.fd-api\.com\/api\/v5\/partnerships-ads-api)(.+) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)jdbimgs\.com\/zzs.+) url reject
-((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)dianying\.im\/[0-9].+) url reject
-((?:(?:https?|ftp|file):\/\/support\.streamjav\.)top\/api\/spots\/[-A-Z0-9+&@#\/%=~_|$?!:,.]*host=supjav.com\&ev.+) url reject
+(^https?:\/\/streamsb\.net\/js\/pop\.js) - reject
+(^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/polyfills\.webvtt\.js)) - reject
+(^https?:\/\/ssl\.p\.jwpcdn\.com\/player\/v\/(.+/provider\.cast\.js)) - reject
+(^https?:\/\/asianclub\.tv\/asset\/bann.js.+)(&.+) - reject
+(^https?:\/\/www\.google\.com\/afs\/ads.+) - reject
+(^https?:\/\/google\.com\/afs\/ads.+) - reject
+(^https?:\/\/www\.googleadservices\.com) - reject
+(^https?:\/\/googleadservices\.com) - reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204.+) - reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)www\.google\.com\/gen_204\?atyp*(?:\([-A-Z0-9+&@#\/%=~_|$?!:,.]*\)|[A-Z0-9+&@#\/%=~_|$]).+) - reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)i\.ytimg\.com\/gen.+) - reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)(static-clst)\.avgle.com\/av\/([A-Za-z0-9_*+%!-]{0,100})\.([A-Za-z0-9_*+%!-]{0,100})) - reject
+(^https?:\/\/img\.subhd\.la\/back\/ad_emma\.png) - reject
+(^https?:\/\/img\.subhd\.la\/back\/ad.+) - reject
+(^https?:\/\/hk\.fd-api\.com\/api\/v5\/partnerships-ads-api)(.+) - reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)jdbimgs\.com\/zzs.+) - reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)dianying\.im\/[0-9].+) - reject
+((?:(?:https?|ftp|file):\/\/support\.streamjav\.)top\/api\/spots\/[-A-Z0-9+&@#\/%=~_|$?!:,.]*host=supjav.com\&ev.+) - reject
 
-#(?:(?:https?|ftp|file):\/\/|pb\.|lihkg\.com\/cdn-cgi\/bm\/cv.+) url reject
-#(?:(?:https?|ftp|file):\/\/|s\.|yimg\.com\/dy\/ads\/.+) url reject
+#(?:(?:https?|ftp|file):\/\/|pb\.|lihkg\.com\/cdn-cgi\/bm\/cv.+) - reject
+#(?:(?:https?|ftp|file):\/\/|s\.|yimg\.com\/dy\/ads\/.+) - reject
 
 
 
 
 #Youtube
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/gen.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/player\/ad.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/api\/stats\/qoe.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/log_event.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/pagead.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/ptracking.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\/pagead.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\.([A-Za-z0-9_*+%!-]{0,100})/pagead.+) url reject
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googleusercontent\.com\/proxy.+) url reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/gen.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/player\/ad.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/api\/stats\/qoe.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/youtubei\/v1\/log_event.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/pagead.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.youtube\.com\/ptracking.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\/pagead.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.google\.com\.([A-Za-z0-9_*+%!-]{0,100})/pagead.+) - reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googleusercontent\.com\/proxy.+) - reject
 
-#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/.+&(oad|ctier)) url reject
+#((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/.+&(oad|ctier)) - reject
 
 #lihkg
-((?:(?:https?|ftp|file):\/\/|www\.|ftp|s\.)([A-Za-z0-9_*+%!-]{0,100})\.yimg\.com\/dy\/ads.+) url reject
+((?:(?:https?|ftp|file):\/\/|www\.|ftp|s\.)([A-Za-z0-9_*+%!-]{0,100})\.yimg\.com\/dy\/ads.+) - reject
 
 #blockcast.it
-(^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/advanced-ads.+) url reject
-(^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/exactmetrics.+) url reject
-(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/11\/02110351\/polo.+) url reject
-(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/09\/20192008\/bito.+) url reject
-(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/06\/29100702\/mica.+) url reject
-(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/11\/02110351\/polo.+) url reject
-(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/08\/07180026\/bin.+) url reject
+(^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/advanced-ads.+) - reject
+(^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/exactmetrics.+) - reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/11\/02110351\/polo.+) - reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/09\/20192008\/bito.+) - reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/06\/29100702\/mica.+) - reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/11\/02110351\/polo.+) - reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/08\/07180026\/bin.+) - reject
 
 #Abmedia
-(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/11\/ACE.+) url reject
-(^https?:\/\/abmedia\.io\/wp-admin\/admin-ajax\.php\?action=achang.+) url reject
-(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/06\/1764259.+) url reject
-(^https?:\/\/abmedia\.io\/wp-content\/plugins\/popup.+) url reject
-(^https?:\/\/abmedia\.io\/wp-json\/pum.+) url reject
-(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/12\/ACE.+) url reject
-(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/12\/Banner.+) url reject
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/11\/ACE.+) - reject
+(^https?:\/\/abmedia\.io\/wp-admin\/admin-ajax\.php\?action=achang.+) - reject
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/06\/1764259.+) - reject
+(^https?:\/\/abmedia\.io\/wp-content\/plugins\/popup.+) - reject
+(^https?:\/\/abmedia\.io\/wp-json\/pum.+) - reject
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/12\/ACE.+) - reject
+(^https?:\/\/abmedia\.io\/wp-content\/uploads\/2022\/12\/Banner.+) - reject
