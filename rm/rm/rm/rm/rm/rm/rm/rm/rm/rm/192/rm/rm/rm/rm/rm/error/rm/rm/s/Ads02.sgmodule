@@ -41,7 +41,14 @@
 #((?:(?:https?|ftp|file):\/\/|www\.|ftp\.)([A-Za-z0-9_*+%!-]{0,100})\.googlevideo\.com\/.+&(oad|ctier)) url reject
 
 #lihkg
-((?:(?:https?|ftp|file):\/\/|www\.|ftp|s\.)([A-Za-z0-9_*+%!-]{0,100})\.yimg\.com\/dy\/ads.+)
+((?:(?:https?|ftp|file):\/\/|www\.|ftp|s\.)([A-Za-z0-9_*+%!-]{0,100})\.yimg\.com\/dy\/ads.+) url reject
 
-
+#blockcast.it
+(^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/advanced-ads.+) url reject
+(^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/exactmetrics.+) url reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/11\/02110351\/polo.+) url reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/09\/20192008\/bito.+) url reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/06\/29100702\/mica.+) url reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2022\/11\/02110351\/polo.+) url reject
+(^https?:\/\/cdni\.blockcast\.it\/wp-content\/uploads\/2020\/08\/07180026\/bin.+) url reject
 
