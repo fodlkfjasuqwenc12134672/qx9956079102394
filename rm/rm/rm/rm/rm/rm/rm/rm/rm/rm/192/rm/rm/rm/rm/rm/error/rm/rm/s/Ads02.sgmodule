@@ -65,3 +65,4 @@
 (^https?:\/\/i0\.wp\.com\/abmedia\.io\/wp-content\/uploads\/2023\/01\/AC.+) - reject
 (^https?:\/\/i0\.wp\.com\/abmedia\.io\/wp-content\/uploads\/2022\/06\/1764259.+) - reject
 (^https?:\/\/i0\.wp\.com\/abmedia\.io\/wp-content\/uploads\/2022\/12\/Ban.+) - reject
+(^https?:\/\/zombit\.info\/wp-content\/uploads\/2022\/12\/%E5%.+) - reject
