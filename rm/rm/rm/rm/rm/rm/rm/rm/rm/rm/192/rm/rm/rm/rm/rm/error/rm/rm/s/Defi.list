@@ -12,6 +12,11 @@ DOMAIN-SUFFIX,mydefipet.com
 DOMAIN-SUFFIX,yieldwatch.net
 DOMAIN-SUFFIX,apollox.com
 DOMAIN-SUFFIX,bsctools.xyz
+DOMAIN-SUFFIX,pancake-swap.workers.dev
+
+
+DOMAIN-SUFFIX,nodereal.io
+DOMAIN-SUFFIX,walletconnect.org
 
 # > BSC node
 DOMAIN-SUFFIX,defibit.io
