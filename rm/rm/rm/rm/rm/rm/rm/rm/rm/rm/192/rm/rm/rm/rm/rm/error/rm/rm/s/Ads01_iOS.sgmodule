@@ -57,4 +57,4 @@
 (^https?:\/\/(.*)abematv\.akamaized\.net.+)
 
 #the p bay
-(^https?:\/\/torrindex\.net\/images\/epv\/(.*).png)
+(^https?:\/\/torrindex\.net\/images\/epv\/(.*).png) - reject
