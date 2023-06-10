@@ -278,6 +278,7 @@ EOF
     cat /root/tuic/v2rayn.json
     yellow "Tuic 节点配置明文如下，并保存到 /root/tuic/tuic.txt"
     cat /root/tuic/tuic.txt
+    ufw enable
 }
 
 unsttuic(){
