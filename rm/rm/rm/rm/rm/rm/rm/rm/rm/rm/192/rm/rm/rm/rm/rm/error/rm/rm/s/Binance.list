@@ -1,3 +1,6 @@
 # > Binance
 DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,bnbstatic.com
+
+# > Bybit
+DOMAIN-SUFFIX,bybit.com
