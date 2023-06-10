@@ -226,7 +226,7 @@ EOF
         "password": "$passwd",
         "ip": "$ip",
         "udp_relay_mode": "quic",
-        "congestion_control": "bbr"
+        "congestion_control": "bbr",
         "alpn": ["h3", "spdy/3.1"]
     },
     "local": {
