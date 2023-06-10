@@ -2,6 +2,8 @@
 
 chmod +x tuic-update.sh
 
+systemctl stop tuic
+
 #update tuic-server
 curl -s https://api.github.com/repos/EAimTY/tuic/releases/latest \
 | grep "browser_download_url.*x86_64-unknown-linux-musl" \
