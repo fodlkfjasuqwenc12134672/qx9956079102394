@@ -251,8 +251,8 @@ EOF
 
     cat << EOF >/etc/systemd/system/tuic.service
 [Unit]
-Description=tuic Service
-Documentation=https://gitlab.com/Misaka-blog/tuic-script
+Description=Delicately-TUICed high-performance proxy built on top of the QUIC protocol
+Documentation=https://github.com/EAimTY/tuic
 After=network.target
 [Service]
 User=root
