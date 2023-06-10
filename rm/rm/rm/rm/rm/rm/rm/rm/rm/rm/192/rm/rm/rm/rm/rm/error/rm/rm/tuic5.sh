@@ -6,6 +6,7 @@
 # #certificatep='/root/ygkkkca/private.key'
 # #Server路徑 /etc/tuic/tuic.json
 # #client路徑 /root/tuic/v2rayn.json
+# rm -r /root/ygkkkca/
 
 # systemctl stop tuic
 
