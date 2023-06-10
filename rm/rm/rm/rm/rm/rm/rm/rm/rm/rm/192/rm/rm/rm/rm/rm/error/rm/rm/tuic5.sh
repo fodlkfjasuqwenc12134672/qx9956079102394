@@ -21,7 +21,7 @@
 # chmod +x /usr/local/bin/tuic
 # systemctl restart tuic
 
-chmod +x tuic5.sh
+chmod +x /home/suki/tuic/tuic5.sh
 
 export LANG=en_US.UTF-8
 
