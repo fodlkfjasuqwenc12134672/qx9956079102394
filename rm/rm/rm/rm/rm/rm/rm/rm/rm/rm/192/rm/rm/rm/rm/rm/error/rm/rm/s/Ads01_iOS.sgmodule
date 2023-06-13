@@ -26,6 +26,8 @@
 #lihkg
 ((?:(?:https?|ftp|file):\/\/|www\.|ftp|s\.)([A-Za-z0-9_*+%!-]{0,100})\.yimg\.com\/dy\/ads.+) - reject
 
+(^https?:\/\/(.*)\.jdbstatic\.com\/ads.+) - reject
+
 #blockcast.it
 (^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/advanced-ads.+) - reject
 (^https?:\/\/cdnb\.blockcast\.it\/wp-content\/plugins\/exactmetrics.+) - reject
