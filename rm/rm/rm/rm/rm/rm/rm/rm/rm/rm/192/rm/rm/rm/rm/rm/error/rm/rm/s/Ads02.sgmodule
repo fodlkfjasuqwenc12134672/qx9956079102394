@@ -24,6 +24,7 @@
 #(?:(?:https?|ftp|file):\/\/|pb\.|lihkg\.com\/cdn-cgi\/bm\/cv.+) - reject
 #(?:(?:https?|ftp|file):\/\/|s\.|yimg\.com\/dy\/ads\/.+) - reject
 
+(^https?:\/\/(.*)\.jdbstatic\.com\/ads.+) - reject
 
 
 
@@ -72,3 +73,8 @@
 
 #the p bay
 (^https?:\/\/torrindex\.net\/images\/epv\/(.*).png) - reject
+
+
+
+
+
