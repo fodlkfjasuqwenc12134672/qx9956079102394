@@ -82,7 +82,7 @@
 (^https?:\/\/(.*)\.yimg\.com\/aaq\/vzm.+) - reject
 (^https?:\/\/(.*)\.yimg\.com\/cx\/pv\/(.*)\.js) - reject
 (^https?:\/\/(.*)\.yimg\.com\/aaq\/wf\/w.+) - reject
-
+(^https?:\/\/(.*)\.gemini\.yahoo\.com\/mbclk.+) - reject
 
 
 
