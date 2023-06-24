@@ -86,6 +86,7 @@
 (^https?:\/\/(.*)\.beap\.gemini\.yahoo\.com\/mb.+) - reject
 (^https?:\/\/(.*)\.ssp\.yahoo\.com\/ad.+) - reject
 (^https?:\/\/(.*)\.yimg\.com\/rq\/darla.+) - reject
+(^https?:\/\/(.*)\.yimg\.com\/yr\/abunews.+) - reject
 
 
 
