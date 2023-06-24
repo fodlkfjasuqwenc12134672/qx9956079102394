@@ -82,11 +82,13 @@
 (^https?:\/\/(.*)\.yimg\.com\/aaq\/vzm.+) - reject
 (^https?:\/\/(.*)\.yimg\.com\/cx\/pv\/(.*)\.js) - reject
 (^https?:\/\/(.*)\.yimg\.com\/aaq\/wf\/w.+) - reject
+(^https?:\/\/(.*)\.yimg\.com\/rx\/martini.+) - reject
 (^https?:\/\/(.*)\.gemini\.yahoo\.com\/mbclk.+) - reject
 (^https?:\/\/(.*)\.beap\.gemini\.yahoo\.com\/mb.+) - reject
 (^https?:\/\/(.*)\.ssp\.yahoo\.com\/ad.+) - reject
 (^https?:\/\/(.*)\.yimg\.com\/rq\/darla.+) - reject
 (^https?:\/\/(.*)\.yimg\.com\/yr\/abunews.+) - reject
+(^https?:\/\/(.*)\.video\.yahoo\.com(.*)gemini-ad.+) - reject
 
 
 
