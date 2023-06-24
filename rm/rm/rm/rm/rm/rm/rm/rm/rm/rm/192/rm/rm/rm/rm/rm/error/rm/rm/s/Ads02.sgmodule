@@ -74,6 +74,19 @@
 #the p bay
 (^https?:\/\/torrindex\.net\/images\/epv\/(.*).png) - reject
 
+#Yahoo
+(^https?:\/\/s\.yimg\.com\/uu\/api\/res\/(.*)\/zbUFNrHeUppYjmNEW23doQ.+) - reject
+(^https?:\/\/(.*)\.yahoo\.com\/_td_api\/beacon.+) - reject
+(^https?:\/\/(.*)\.yahoo\.com\/px\.gif.+) - reject
+(^https?:\/\/(.*)\.yimg\.com\/av\/curveball\/ads.+) - reject
+(^https?:\/\/(.*)\.yimg\.com\/aaq\/vzm.+) - reject
+(^https?:\/\/(.*)\.yimg\.com\/cx\/pv\/(.*)\.js) - reject
+(^https?:\/\/(.*)\.yimg\.com\/aaq\/wf\/w.+) - reject
+
+
+
+
+
 
 
 
