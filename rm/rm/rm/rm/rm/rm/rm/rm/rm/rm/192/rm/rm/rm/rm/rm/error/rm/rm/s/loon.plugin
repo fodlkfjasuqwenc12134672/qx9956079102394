@@ -1,0 +1,11 @@
+#!name= Ads Loon
+#!desc= Ads Loon
+#!author= Ads Loon
+#!homepage= https://github.com
+#!icon= https://avatars.githubusercontent.com/u/38467044?v=4
+
+[rewrite]
+(^https?:\/\/(.*)\.aastocks\.com\/ad.+) reject-200
+
+[mitm]
+hostname=*.aastocks.com
