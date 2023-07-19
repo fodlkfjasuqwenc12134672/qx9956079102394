@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,terra.dev
 # > SafePal
 DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,thegragh.com
+DOMAIN-SUFFIX,walletconnect.org
 
 # > Serum
 DOMAIN-SUFFIX,projectserum.com
@@ -67,3 +68,6 @@ DOMAIN-SUFFIX,fixedfloat.com
 
 # > Cryptowatch
 DOMAIN-SUFFIX,cryptowat.ch
+
+
+
