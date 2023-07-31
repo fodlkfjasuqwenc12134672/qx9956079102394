@@ -3,6 +3,10 @@ DOMAIN-SUFFIX,dcard.tw
 
 #KKTV
 DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,kk.stream
+DOMAIN-SUFFIX,kktv.com.tw
+USER-AGENT,com.kktv.ios.kktv*
+USER-AGENT,KKTV*
 
 #ELA
 DOMAIN-SUFFIX,elaott.tv
@@ -11,3 +15,12 @@ DOMAIN-SUFFIX,elaott.tv
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,myvideo.net.tw
+
+# >> Line TV
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,linetv.tw
+USER-AGENT,LINE%20TV*
+PROCESS-NAME,com.linecorp.linetv
+
+
+
