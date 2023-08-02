@@ -1,12 +1,10 @@
-#!name=Join TF
-#!desc=For those JavaScripts who should be disabled after evaluation successful.
+#!name=加入TF腳本
+#!desc=自动加入公测TF应用并关闭本脚本模块
+#!system=ios
 
 [Script]
-Auto join TF = type=cron,cronexp=*/1 * * * * *,script-path=https://github.com/DecoAri/JavaScript/blob/main/Surge/Auto_join_TF.js?raw=true,wake-system=0,timeout=180
-
-#⚠️添加获取ID信息脚本：
-[Script]
-TF信息获取 = type=http-request,pattern=^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$,requires-body=0,script-path=https://github.com/DecoAri/JavaScript/blob/main/Surge/TF_keys.js?raw=true
+//信息获取 = type=http-request,pattern=^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$,requires-body=0,script-path=https://raw.githubusercontent.com/DecoAri/JavaScript/main/Surge/TF_keys.js
+加入测试 = type=cron,cronexp="*/10 * * * * *",script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Auto_join_TF.js,wake-system=0,timeout=180
 
 [MITM]
-hostname = testflight.apple.com
+hostname = %APPEND% testflight.apple.com
