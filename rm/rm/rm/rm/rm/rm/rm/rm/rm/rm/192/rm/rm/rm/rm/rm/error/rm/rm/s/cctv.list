@@ -1,6 +1,9 @@
 #CCTV
 DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,cntv.cn
+
+#iOS
+DOMAIN-SUFFIX,qvb.qcloud.com
   
 # DOMAIN-SUFFIX,liveplay.myqcloud.com
 # DOMAIN-SUFFIX,cctv.com
