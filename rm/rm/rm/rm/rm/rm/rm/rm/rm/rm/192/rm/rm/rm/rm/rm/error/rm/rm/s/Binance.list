@@ -13,5 +13,8 @@ DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,hecoview.com
 DOMAIN-SUFFIX,hbabit.com
 
+# > Bitmex
+DOMAIN-SUFFIX,bitmex.com
 
-
+# > Pionex
+DOMAIN-SUFFIX,pionex.com
