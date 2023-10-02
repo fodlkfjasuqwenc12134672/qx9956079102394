@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,bitmex.com
 # > Pionex
 DOMAIN-SUFFIX,pionex.com
 
+# > kucoin
+DOMAIN-SUFFIX,kucoin.com
+
 
 # > Quppy
 DOMAIN-SUFFIX,quppy.com
