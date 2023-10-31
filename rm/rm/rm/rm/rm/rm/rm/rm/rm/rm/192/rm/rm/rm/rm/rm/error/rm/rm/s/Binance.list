@@ -18,6 +18,10 @@ DOMAIN-SUFFIX,bitmex.com
 
 # > Pionex
 DOMAIN-SUFFIX,pionex.com
+DOMAIN-SUFFIX,thepinet.com
+
+# > KYC
+DOMAIN-SUFFIX,sumsub.com
 
 # > kucoin
 DOMAIN-SUFFIX,kucoin.com
