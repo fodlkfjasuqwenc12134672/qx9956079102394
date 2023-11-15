@@ -20,6 +20,12 @@ DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,thepinet.com
 
+# > bittrex
+DOMAIN-SUFFIX,bittrex.com
+
+# > deribit
+DOMAIN-SUFFIX,deribit.com
+
 # > KYC
 DOMAIN-SUFFIX,sumsub.com
 
@@ -30,7 +36,6 @@ DOMAIN-SUFFIX,staticimg.com
 
 # > Quppy
 DOMAIN-SUFFIX,quppy.com
-
 
 # > redotpay.com
 DOMAIN-SUFFIX,redotpay.com
