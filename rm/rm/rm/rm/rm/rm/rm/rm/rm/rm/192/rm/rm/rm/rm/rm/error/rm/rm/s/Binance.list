@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,hbabit.com
 # > Bitmex
 DOMAIN-SUFFIX,bitmex.com
 
+# > OKX
+DOMAIN-SUFFIX,okx.com
+
 # > Pionex
 DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,thepinet.com
