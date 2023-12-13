@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,biliapi.net
 #DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,httpdns.bilivideo.com
+IP-CIDR,103.151.150.0/23
+IP-CIDR6,2001:df3:c680::/48
 
 # > 愛奇藝台灣站 & iQIYI
 DOMAIN-SUFFIX,iqiyi.com
