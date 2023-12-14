@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,bitmex.com
 
 # > OKX
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,d1w1p0smpsoh5j.cloudfront.net
+DOMAIN-SUFFIX,api.onesignal.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 
 # > Pionex
 DOMAIN-SUFFIX,pionex.com
