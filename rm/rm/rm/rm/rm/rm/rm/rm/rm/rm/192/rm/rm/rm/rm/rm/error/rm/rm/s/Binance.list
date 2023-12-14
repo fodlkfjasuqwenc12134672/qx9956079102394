@@ -1,6 +1,8 @@
 # > Binance
 DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,cookielaw.org
 
 # > Bybit
 DOMAIN-SUFFIX,bybit.com
