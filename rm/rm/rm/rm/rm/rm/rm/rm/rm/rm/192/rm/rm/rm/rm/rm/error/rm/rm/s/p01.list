@@ -9,10 +9,6 @@ DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,socialblade.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,mgstage.com
-DOMAIN-SUFFIX,gov.tw
-DOMAIN-SUFFIX,com.tw
-DOMAIN-SUFFIX,org.tw
-DOMAIN-KEYWORD,org.tw
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,i.lih.kg
 DOMAIN-SUFFIX,tdesktop.com
@@ -38,5 +34,5 @@ DOMAIN-SUFFIX,japonx.tv
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,torrentgalaxy.to
-
+DOMAIN-SUFFIX,zmk.pw
 
