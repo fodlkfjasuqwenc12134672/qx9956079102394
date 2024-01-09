@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,speed.cloudflare.com
 
-
+DOMAIN-SUFFIX,maxmind.com
 
 
 DOMAIN-SUFFIX,stun.nextcloud.com
