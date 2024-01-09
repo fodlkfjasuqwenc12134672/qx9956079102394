@@ -51,7 +51,9 @@ DOMAIN-SUFFIX,redotpay.com
 # > COINBASE
 DOMAIN-SUFFIX,coinbase.com
 
-
+# > OTHER
+DOMAIN-SUFFIX,fvbank.us
+DOMAIN-SUFFIX,bitget.com
 
 
 
