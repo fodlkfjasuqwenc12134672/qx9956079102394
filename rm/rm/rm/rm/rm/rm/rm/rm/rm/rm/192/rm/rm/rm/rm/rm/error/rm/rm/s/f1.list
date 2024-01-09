@@ -1,2 +1,8 @@
 DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,bitmovin.com
+
+# > OPENAI
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,openai.com
