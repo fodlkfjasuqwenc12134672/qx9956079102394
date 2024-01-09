@@ -4,8 +4,10 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipcheck.ing
+DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,speed.cloudflare.com
+
 
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,ip8.com
