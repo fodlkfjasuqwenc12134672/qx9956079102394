@@ -26,7 +26,10 @@ PROCESS-NAME,com.linecorp.linetv
 DOMAIN-SUFFIX,dcard.tw
 
 DOMAIN-SUFFIX,cmail20.com
-DOMAIN-SUFFIX,*.edu.tw
-DOMAIN-SUFFIX,*.org.tw
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,org.tw
+DOMAIN-KEYWORD,org.tw
 
 
