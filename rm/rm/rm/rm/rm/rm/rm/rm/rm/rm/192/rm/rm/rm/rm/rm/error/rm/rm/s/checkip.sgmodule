@@ -1,5 +1,5 @@
-#!name=Ads01
-#!desc=Ads01
+#!name=CheckIP
+#!desc=CheckIP
 
 [Script]
 # 定義處理網絡請求的腳本
