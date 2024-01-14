@@ -15,7 +15,8 @@ DOMAIN-SUFFIX,ip8.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,ooklaserver.net
-
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,ip125.com
 
 DOMAIN-SUFFIX,stun.nextcloud.com
 DOMAIN-SUFFIX,ip-api.com
