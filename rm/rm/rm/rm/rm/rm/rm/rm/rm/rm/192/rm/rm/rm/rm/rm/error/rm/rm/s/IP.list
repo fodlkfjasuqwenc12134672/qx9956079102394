@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,ip8.com
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest.cn
 
 
 DOMAIN-SUFFIX,stun.nextcloud.com
