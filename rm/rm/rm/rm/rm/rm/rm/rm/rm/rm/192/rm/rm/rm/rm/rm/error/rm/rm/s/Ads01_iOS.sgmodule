@@ -5,8 +5,8 @@
 [URL Rewrite]
 # ^https?:\/\/img\.4gamers\.com\.tw/ads-media.+ - reject
 ^http://www\.feng\.com https://www.feng.com 302
-^https?:\/\/(www.)?(g|google)\.com\.hk http://www.google.com 302
-^https?:\/\/(www.)?(g|google)\.cn http://www.google.com 302
+^http://www\.feng\.com https://www.feng.com 302
+^https?://www.google.hk https://www.google.com 302
 # AbeamTV Unlock header
 ^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
 
@@ -83,6 +83,6 @@
 
 [MITM]
 hostname = *.4gamers.com.tw, *.google.com, *.ytimg.com, *.avgle.com, *.subhd.la, *.fd-api.com, *.google.com.hk, mozilla.cloudflare-dns.com, jdbimgs.com, dianying.im, *.yimg.com, *.lihkg.com, *.streamjav.top, lihkg.com, *.abema.tv, *.blockcast.it, abmedia.io, *.wp.com, zombit.info, *.akamaized.net, torrindex.net, *.jdbstatic.com, *.yimg.com, *.yahoo.com
-#*.youtube.com, *.googlevideo.com, *.googleusercontent.com
+#*.youtube.com, *.googlevideo.com, *.googleusercontent.com, *.google.com.cn, *.g.cn
 
 
