@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,ip.im
-
+DOMAIN-KEYWORD,browserleaks
 
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,ip8.com
