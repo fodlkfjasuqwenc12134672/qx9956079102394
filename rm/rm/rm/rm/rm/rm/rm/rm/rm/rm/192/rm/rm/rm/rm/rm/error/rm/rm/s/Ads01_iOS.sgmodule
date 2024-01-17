@@ -6,7 +6,7 @@
 # ^https?:\/\/img\.4gamers\.com\.tw/ads-media.+ - reject
 ^http://www\.feng\.com https://www.feng.com 302
 ^http://www\.feng\.com https://www.feng.com 302
-^https?://www.google.hk https://www.google.com 302
+^https?://www.google.com.hk https://www.google.com 302
 # AbeamTV Unlock header
 ^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
 
