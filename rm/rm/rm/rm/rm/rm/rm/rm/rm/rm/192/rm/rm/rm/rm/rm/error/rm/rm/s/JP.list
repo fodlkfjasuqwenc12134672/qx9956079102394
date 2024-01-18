@@ -1,3 +1,10 @@
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,mercari.com
+
+#Media
+DOMAIN-SUFFIX,skyperfectv.co.jp
+DOMAIN-SUFFIX,unext.jp
+# DOMAIN-SUFFIX,stream.ne.jp
+DOMAIN-SUFFIX,codefi.networ
+DOMAIN-SUFFIX,fujitv.co.jp
