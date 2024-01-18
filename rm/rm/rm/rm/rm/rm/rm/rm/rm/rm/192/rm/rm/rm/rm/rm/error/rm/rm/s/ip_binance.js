@@ -1,7 +1,14 @@
 var matchedHostnames = ['binance.com', 'www.binance.com'];
 var hostnameMatched = matchedHostnames.includes($request.hostname);
+var isCountryFetched = false;
 
 function fetchCountry() {
+    if (isCountryFetched) {
+        return;
+    }
+
+    isCountryFetched = true; 
+
     var options = {
         url: "https://www.binance.com/bapi/accounts/v2/public/account/ip/country-city-short",
         timeout: 5 
