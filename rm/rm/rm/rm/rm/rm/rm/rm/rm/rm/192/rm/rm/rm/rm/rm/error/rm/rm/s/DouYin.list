@@ -1,4 +1,5 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+# https://github.com/lwd-temp/anti-ip-attribution/blob/main/rules.yaml
 
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,bytegecko.com
