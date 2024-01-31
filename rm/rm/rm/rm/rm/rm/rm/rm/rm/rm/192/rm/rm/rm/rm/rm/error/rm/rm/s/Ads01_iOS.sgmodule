@@ -82,7 +82,7 @@
 (^https?:\/\/(.*)\.video\.yahoo\.com(.*)gemini-ad.+) - reject
 
 [MITM]
-hostname = *.4gamers.com.tw, *.google.com, *.ytimg.com, *.avgle.com, *.subhd.la, *.fd-api.com, *.google.com.hk, mozilla.cloudflare-dns.com, jdbimgs.com, dianying.im, *.yimg.com, *.lihkg.com, *.streamjav.top, lihkg.com, *.abema.tv, *.blockcast.it, abmedia.io, *.wp.com, zombit.info, *.akamaized.net, torrindex.net, *.jdbstatic.com, *.yimg.com, *.yahoo.com
+hostname = %APPEND% *.4gamers.com.tw, *.google.com, *.ytimg.com, *.avgle.com, *.subhd.la, *.fd-api.com, *.google.com.hk, mozilla.cloudflare-dns.com, jdbimgs.com, dianying.im, *.yimg.com, *.lihkg.com, *.streamjav.top, lihkg.com, *.abema.tv, *.blockcast.it, abmedia.io, *.wp.com, zombit.info, *.akamaized.net, torrindex.net, *.jdbstatic.com, *.yimg.com, *.yahoo.com
 #*.youtube.com, *.googlevideo.com, *.googleusercontent.com, *.google.com.cn, *.g.cn
 
 
