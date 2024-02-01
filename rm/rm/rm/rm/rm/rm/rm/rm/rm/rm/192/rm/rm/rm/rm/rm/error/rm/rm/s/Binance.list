@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,cookielaw.org
+IP-CIDR,34.160.0.0/16,no-resolve
 
 # > Bybit
 DOMAIN-SUFFIX,bybit.com
