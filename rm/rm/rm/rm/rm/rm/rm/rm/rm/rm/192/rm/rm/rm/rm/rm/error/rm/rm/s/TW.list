@@ -1,6 +1,3 @@
-#Dcard
-DOMAIN-SUFFIX,dcard.tw
-
 #KKTV
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kk.stream
@@ -21,15 +18,3 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
 USER-AGENT,LINE%20TV*
 PROCESS-NAME,com.linecorp.linetv
-
-# >> Dcard
-DOMAIN-SUFFIX,dcard.tw
-
-DOMAIN-SUFFIX,cmail20.com
-DOMAIN-SUFFIX,edu.tw
-DOMAIN-SUFFIX,gov.tw
-DOMAIN-SUFFIX,com.tw
-DOMAIN-SUFFIX,org.tw
-DOMAIN-KEYWORD,org.tw
-
-
