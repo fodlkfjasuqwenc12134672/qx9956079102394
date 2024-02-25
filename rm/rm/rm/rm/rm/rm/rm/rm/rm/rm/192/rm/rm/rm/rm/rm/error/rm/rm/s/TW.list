@@ -18,3 +18,6 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
 USER-AGENT,LINE%20TV*
 PROCESS-NAME,com.linecorp.linetv
+
+# >> 4G TV
+DOMAIN-SUFFIX,4gtv.tv
