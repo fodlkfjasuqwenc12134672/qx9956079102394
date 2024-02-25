@@ -21,3 +21,6 @@ PROCESS-NAME,com.linecorp.linetv
 
 # >> 4G TV
 DOMAIN-SUFFIX,4gtv.tv
+
+# >> ofiii.com
+DOMAIN-SUFFIX,ofiii.com
