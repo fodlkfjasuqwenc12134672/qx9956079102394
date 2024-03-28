@@ -47,7 +47,7 @@ DOMAIN-SUFFIX,staticimg.com
 DOMAIN-SUFFIX,quppy.com
 
 # > redotpay.com
-DOMAIN-SUFFIX,redotpay.com
+#DOMAIN-SUFFIX,redotpay.com
 
 # > COINBASE
 DOMAIN-SUFFIX,coinbase.com
