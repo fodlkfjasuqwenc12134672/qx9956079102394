@@ -56,5 +56,14 @@ DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,fvbank.us
 DOMAIN-SUFFIX,bitget.com
 
+# > offramp
+DOMAIN-SUFFIX,offramp.xyz
+DOMAIN-SUFFIX,slise.xyz
+DOMAIN-SUFFIX,li.quest
+DOMAIN-SUFFIX,dynamicauth.com
+DOMAIN-SUFFIX,dynamic-static-assets.com
+DOMAIN-SUFFIX,walletconnect.com
+
+
 
 
