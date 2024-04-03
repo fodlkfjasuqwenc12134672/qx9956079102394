@@ -17,3 +17,8 @@ DOMAIN,cache-video.iq.com
 DOMAIN,intl.iqiyi.com
 DOMAIN,intl-rcd.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
+
+# > ACFUN
+# > ali-acfun-adaptive.pull.etoote.com | video流量
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,api.kuaishouzt.com
