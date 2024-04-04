@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,quppy.com
 # > redotpay.com
 #DOMAIN-SUFFIX,redotpay.com
 
+# > 
+DOMAIN-SUFFIX,cypherwallet.io
+
 # > COINBASE
 DOMAIN-SUFFIX,coinbase.com
 
