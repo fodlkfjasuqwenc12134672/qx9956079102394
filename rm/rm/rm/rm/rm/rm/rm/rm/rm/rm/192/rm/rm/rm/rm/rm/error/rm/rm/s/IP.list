@@ -30,6 +30,32 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,surfsharkdns.com
 
 DOMAIN-SUFFIX,vpng.net
+
+# CN
+DOMAIN-SUFFIX,ipv4_cm.itdog.cn
+DOMAIN-SUFFIX,ipv6_cm.itdog.cn
+DOMAIN-SUFFIX,ipv4_cu.itdog.cn
+DOMAIN-SUFFIX,ipv6_cu.itdog.cn
+DOMAIN-SUFFIX,ipv4_ct.itdog.cn
+DOMAIN-SUFFIX,ipv6_ct.itdog.cn
+DOMAIN-SUFFIX,ipv4-overseas.itdog.plus
+DOMAIN-SUFFIX,ipv6-overseas.itdog.plus
+DOMAIN-SUFFIX,ipv4.lvhai.org
+DOMAIN-SUFFIX,ipv6.lvhai.org
+
+
+
+
+
+
+
 DOMAIN-SUFFIX,ip.skk.moe
 
 #https://sp-dir.uwn.com/api/v1/ip
+
+
+
+
+
+
+
