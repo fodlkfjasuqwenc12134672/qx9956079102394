@@ -11,6 +11,12 @@ DOMAIN-SUFFIX,qvb.qcloud.com
 #咪咕视频
 DOMAIN-SUFFIX,webapi.miguvideo.com
 DOMAIN-SUFFIX,migu.cn
+
+#Youku
+DOMAIN-SUFFIX,youku.com
+
+# qq
+DOMAIN-SUFFIX,qq.com
   
 # DOMAIN-SUFFIX,liveplay.myqcloud.com
 # DOMAIN-SUFFIX,cctv.com
