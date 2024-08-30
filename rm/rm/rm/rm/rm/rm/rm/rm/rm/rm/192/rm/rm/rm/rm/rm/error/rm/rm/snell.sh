@@ -218,6 +218,8 @@ start_menu(){
         5)
         systemctl restart snell-server
         echo -e "${Info} Snell Server 重啟成功 !"
+        echo -e "現在配置(/etc/snell/config.conf)："
+        cat /etc/snell/config.conf
         ;;
         6)
         systemctl stop snell-server
