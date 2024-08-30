@@ -157,7 +157,7 @@ Install(){
     echo -e "${Info} Snell Server 安裝完畢，開始啟動..."
     Start
     # Output Surge configuration
-    local_ip=$(hostname -I | awk '{print $1}')
+    local_ip=$(curl -s http://checkip.amazonaws.com)
     echo -e "\n${Info} 你可以在 Surge 中使用以下配置："
     echo "server = snell, ${local_ip}, ${port}, psk=${psk}, obfs=http, obfs-host=www.bing.com, version=4, reuse=true, tfo=true"
 }
