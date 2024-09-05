@@ -114,6 +114,40 @@ remove_hy2() {
   echo "hy2 已被移除。"
 }
 
+
+
+# Function to enable port forwarding for hy2
+enable_port_forwarding() {
+  echo "開啟 hy2 端口轉發..."
+
+  # 读取 config.yaml 中的端口号
+  port=$(grep '^listen: ' /etc/hysteria/config.yaml | awk '{print $2}' | tr -d ':')
+
+  sudo apt install -y iptables-persistent
+  sudo iptables -t nat -A PREROUTING -i eth0 -p udp --dport 50000:60000 -j DNAT --to-destination :$port
+  sudo ip6tables -t nat -A PREROUTING -i eth0 -p udp --dport 50000:60000 -j DNAT --to-destination :$port
+  sudo netfilter-persistent save
+
+  echo "開啟 ufw 端口 50000-60000..."
+  sudo ufw allow 50000:60000/tcp
+}
+
+# Function to disable port forwarding for hy2
+disable_port_forwarding() {
+  echo "取消 hy2 端口轉發..."
+
+  # 读取 config.yaml 中的端口号
+  port=$(grep '^listen: ' /etc/hysteria/config.yaml | awk '{print $2}' | tr -d ':')
+
+  sudo iptables -t nat -D PREROUTING -i eth0 -p udp --dport 50000:60000 -j DNAT --to-destination :$port
+  sudo ip6tables -t nat -D PREROUTING -i eth0 -p udp --dport 50000:60000 -j DNAT --to-destination :$port
+  sudo netfilter-persistent save
+
+  echo "刪除 ufw 端口 50000-60000..."
+  sudo ufw delete allow 50000:60000/tcp
+}
+
+
 # Menu options
 echo "請選擇一個選項："
 echo "1. 安裝 hy2"
@@ -123,6 +157,8 @@ echo "4. 啟動 hy2"
 echo "5. 停止 hy2"
 echo "6. 重啟 hy2"
 echo "7. 完整移除 hy2"
+echo "8. 開啟 hy2 端口轉發"
+echo "9. 取消 hy2 端口轉發"
 
 read -r choice
 
@@ -148,7 +184,24 @@ case $choice in
   7)
     remove_hy2
     ;;
+  8)
+    enable_port_forwarding
+    ;;
+  9)
+    disable_port_forwarding
+    ;;
   *)
-    echo "无效选项"
+    echo "無效選項"
     ;;
 esac
+
+
+
+
+
+
+
+
+
+
+
