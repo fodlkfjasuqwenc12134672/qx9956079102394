@@ -62,9 +62,11 @@ EOF
   # 检查服务状态
   systemctl status hysteria-server.service
 
-  # 输出连接信息
-  echo "hy2 安装完成。请使用以下信息连接："
-  echo "hy2://$(curl -s ifconfig.me):$port"
+  ip_address=$(curl -s http://checkip.amazonaws.com)
+
+  echo "hy2 安裝完成。請使用以下信息連接："
+  echo "hy2 = hysteria2, $ip_address, $port, password=j90p90, skip-cert-verify=true, sni=www.douyin.com"
+  echo "hy2 = hysteria2, $ip_address, $port, password=j90p90, skip-cert-verify=true, sni=www.douyin.com, port-hopping=port;50000-60000, port-hopping-interval=30"
 }
 
 # Function to change port
