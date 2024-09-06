@@ -41,9 +41,6 @@ masquerade:
   proxy:
     url: https://www.icloud.com/us
     rewriteHost: true
-  listenHTTP: :80
-  listenHTTPS: :443
-  forceHTTPS: true
 
 quic:
   initStreamReceiveWindow: 33554432
