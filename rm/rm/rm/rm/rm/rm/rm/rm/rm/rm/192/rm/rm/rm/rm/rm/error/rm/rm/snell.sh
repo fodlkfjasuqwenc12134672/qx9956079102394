@@ -56,7 +56,7 @@ Download() {
         mkdir "${FOLDER}"
     fi
     echo -e "${Info} 正在請求下載 Snell Server ……"
-    wget --no-check-certificate -O "snell-server.zip" "https://dl.nssurge.com/snell/snell-server-v4.1.0-linux-amd64.zip"
+    wget --no-check-certificate -O "snell-server.zip" "https://dl.nssurge.com/snell/snell-server-v4.1.1-linux-amd64.zip"
 
     if [[ ! -e "snell-server.zip" ]]; then
         echo -e "${Error} Snell Server 下載失敗！"
