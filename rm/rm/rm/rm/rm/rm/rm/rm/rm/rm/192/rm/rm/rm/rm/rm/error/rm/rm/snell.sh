@@ -80,13 +80,13 @@ Service(){
     echo '[Unit]
 Description=Snell Service
 After=network-online.target
-Wants=network-online.target systemd-networkd-wait-online.service
+Wants=network-online.target
 [Service]
 LimitNOFILE=32767 
 Type=simple
 User=root
 Restart=on-failure
-RestartSec=5s
+RestartSec=10s
 ExecStartPre=/bin/sh -c "ulimit -n 51200"
 ExecStart=/usr/local/bin/snell-server -c /etc/snell/config.conf
 [Install]
